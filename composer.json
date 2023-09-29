@@ -24,7 +24,6 @@
     },
     "require": {
         "omnipay/common": "~3.0",
-        "ganeendra/omnipay-perfectmoney": "master@dev"
     },
     "require-dev": {
         "omnipay/tests": "~3.0"
