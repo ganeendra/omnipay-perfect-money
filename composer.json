@@ -23,14 +23,14 @@
         "psr-4": { "Omnipay\\Perfectmoney\\" : "src/" }
     },
     "require": {
-        "omnipay/common": "3.2",
+        "omnipay/common": "^3",
     },
     "require-dev": {
-        "omnipay/tests": "3.2"
+        "omnipay/tests": "^3"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.x-dev"
+            "dev-master": "3.2-dev"
         }
     },
     "minimum-stability":"dev"
