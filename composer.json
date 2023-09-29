@@ -23,7 +23,8 @@
         "psr-4": { "Omnipay\\Perfectmoney\\" : "src/" }
     },
     "require": {
-        "omnipay/common": "~3.0"
+        "omnipay/common": "~3.0",
+        "ganeendra/omnipay-perfectmoney": "master@dev"
     },
     "require-dev": {
         "omnipay/tests": "~3.0"
